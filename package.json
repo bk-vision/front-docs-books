@@ -6,22 +6,17 @@
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
-    "docs:serve": "vitepress serve docs",
+    "docs:preview": "vitepress preview docs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "andyljzhou <andyljzhou@tencent.com>",
   "license": "ISC",
   "dependencies": {
-    "@vue/theme": "^1.0.2",
-    "vite-plugin-mdx": "^3.5.10",
-    "vitepress-zhoulujun": "^1.1.9"
+    "vite-plugin-mdx": "^3.5.10"
   },
   "devDependencies": {
-    "dynamics.js": "^1.1.5",
-    "gsap": "^3.10.4",
-    "vitepress": "^1.0.0-alpha.29",
+    "vitepress": "^1.0.0-alpha.30",
     "vue": "^3.2.45"
-  },
-  "repository": "git@git.woa.com:bkvision/front-doc.git"
+  }
 }
