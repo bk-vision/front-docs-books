@@ -1,1 +1,1 @@
-web: vitepress dev docs
+web: vitepress dev docs --port 5000
