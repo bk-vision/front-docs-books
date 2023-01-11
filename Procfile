@@ -1,1 +1,1 @@
-web: npm run docs:dev
+web: npm run server

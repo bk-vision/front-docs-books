@@ -4,14 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "server": "node prod-server.js",
     "docs:dev": "vitepress dev docs --port 5000",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "engines": {
-    "node": "^v16.15.0",
-    "npm": "^8.5.5"
   },
   "keywords": [],
   "author": "andyljzhou <andyljzhou@tencent.com>",
@@ -19,7 +16,10 @@
   "dependencies": {
     "vite-plugin-mdx": "^3.5.10",
     "vitepress": "^1.0.0-alpha.30",
-    "vue": "^3.2.45"
+    "express": "^4.18.2",
+    "vue": "^3.2.45",
+    "html": "1.0.0",
+    "ejs": "^3.1.8"
   },
   "engines": {
     "node": ">=12.0.0",
