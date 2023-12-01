@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "vite-plugin-mdx": "^3.5.10",
-    "vitepress": "^1.0.0-alpha.30",
+    "vitepress": "1.0.0-alpha.75",
     "express": "^4.18.2",
     "vue": "^3.2.45",
     "html": "1.0.0",
@@ -24,9 +24,5 @@
   "engines": {
     "node": ">=12.0.0",
     "npm": "6.9.0"
-  },
-  "devDependencies": {
-    "vitepress": "^1.0.0-alpha.30",
-    "vue": "^3.2.45"
   }
 }
