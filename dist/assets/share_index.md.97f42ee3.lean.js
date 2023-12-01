@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as s,M as n}from"./chunks/framework.b26238a1.js";const F=JSON.parse('{"title":"iframe","description":"","frontmatter":{},"headers":[],"relativePath":"share/index.md","filePath":"share/index.md"}'),l={name:"share/index.md"},e=n("",31),o=[e];function p(r,d,i,c,D,y){return a(),s("div",null,o)}const B=t(l,[["render",p]]);export{F as __pageData,B as default};

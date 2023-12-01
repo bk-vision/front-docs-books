@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,M as l}from"./chunks/framework.b26238a1.js";const A=JSON.parse('{"title":"图表数据在哪里定义","description":"","frontmatter":{},"headers":[],"relativePath":"api/chart.md","filePath":"api/chart.md"}'),p={name:"api/chart.md"},o=l("",41),e=[o];function c(t,D,r,F,y,B){return a(),n("div",null,e)}const i=s(p,[["render",c]]);export{A as __pageData,i as default};

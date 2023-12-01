@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,M as l}from"./chunks/framework.b26238a1.js";const u=JSON.parse('{"title":"query接口返回格式","description":"","frontmatter":{},"headers":[],"relativePath":"api/query.md","filePath":"api/query.md"}'),p={name:"api/query.md"},o=l("",30),t=[o];function e(D,c,F,r,y,B){return n(),a("div",null,t)}const i=s(p,[["render",e]]);export{u as __pageData,i as default};
